@@ -1,16 +1,16 @@
-# water_intake_app
+![Screenshot_20241003_202610](https://github.com/user-attachments/assets/d8b5c64c-46f8-439e-bbf3-13aca8f847f9)
+![Screenshot_20241003_202613](https://github.com/user-attachments/assets/98e74a1e-b73f-43d0-99f5-d7975f7142b1)
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot_20241003_202937](https://github.com/user-attachments/assets/4e8ea3e2-beb5-4c19-a167-5a7b045cf603)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20241003_202622](https://github.com/user-attachments/assets/439dc355-06cd-44be-a704-0d6d865a2f9a)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+https://github.com/user-attachments/assets/b25e0bf2-e535-4934-bec4-93b2dea7e9e4
+
+
